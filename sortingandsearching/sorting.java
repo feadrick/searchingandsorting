@@ -87,4 +87,13 @@ public class sorting {
         min=temp;
     
     }
+    
+    public static int partition(int[] arr){
+        int l=0;
+        int r=arr.length-1;
+        
+        int p=arr[l];
+        int s=l;
+       
+    }
 }
